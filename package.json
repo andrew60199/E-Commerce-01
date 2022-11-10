@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git+https://github.com/andrew60199/E-Commerce-01.git"
   },
   "keywords": [],
   "author": "",
